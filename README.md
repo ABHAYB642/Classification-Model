@@ -1,1 +1,2 @@
-# Classification-Model
+Classification Model.
+Data can be found at-https://raw.githubusercontent.com/YBI-Foundation/Dataset/main/Fruits.csv
